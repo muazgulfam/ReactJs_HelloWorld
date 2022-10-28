@@ -10,6 +10,8 @@ function Cv() {
         </h1>
       </center>
 
+      
+
       <h2>
         <u>Summary</u>
       </h2>
@@ -44,7 +46,7 @@ function Cv() {
         <a href="mail_to:muazgulfam7890@gmail.com">muazgulfam7890@gmail.com</a>
       </h3>
       <h3>
-        GitHub: <a href="go to github">https://github.com/Dangeryego</a>
+        GitHub: <a href="go to github">https://github.com/muazgulfam</a>
       </h3>
       <h3>
         Contact info: <u>+923182722012</u>
